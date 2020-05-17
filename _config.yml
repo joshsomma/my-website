@@ -9,8 +9,13 @@ paginate: 15
 baseurl: /
 domain_name: 'http://joshsomma.com'
 google_analytics: 'UA-11483598-1'
-gems: [jekyll-paginate]
-plugins: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # Details for the RSS feed generator
 url:            'blog url'
