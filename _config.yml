@@ -3,7 +3,7 @@ description: Personal website of Josh Somma
 meta_description: "Personal website of Josh Somma"
 
 markdown: kramdown
-highlighter: pygments
+# highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
