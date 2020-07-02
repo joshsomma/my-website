@@ -3,11 +3,11 @@ description: Personal website of Josh Somma
 meta_description: "Personal website of Josh Somma"
 
 markdown: kramdown
-# highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://joshsomma.com'
+domain_name: 'https://joshsomma.com'
 google_analytics: 'UA-11483598-1'
 gems:
   - jekyll-paginate
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Details for the RSS feed generator
-url:            'blog url'
+url:            'https://www.joshsomma.com'
 author:         'Josh'
